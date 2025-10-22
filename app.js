@@ -12,6 +12,7 @@ submitLogin.addEventListener('click', function(e) {
 
 const clearLogin = document.getElementById("clear-login");
 
+//clicking the button will reload the form which will clear the form-- desired outcome
 clearLogin.addEventListener('click', function(e){
     
 })
