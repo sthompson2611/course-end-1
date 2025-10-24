@@ -8,6 +8,7 @@ submitLogin.addEventListener('click', function(e) {
            alert("Successful Login!")
             // const username = document.getElementById(username);
             // console.log(username)
+            window.location.href = "online-order.html";
 })
 
 const clearLogin = document.getElementById("clear-login");
